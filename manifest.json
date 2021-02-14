@@ -4,8 +4,8 @@
   "display": "standalone",
   "scope": "/back-home-safe",
   "start_url": "/back-home-safe",
-  "name": "安心回家",
-  "short_name": "安心回家",
+  "name": "LeaveHomeSafe",
+  "short_name": "LeaveHomeSafe",
   "icons": [
     {
       "src": "icon-192x192.png",
