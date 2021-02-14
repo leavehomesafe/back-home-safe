@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/back-home-safe/static/js/main.512c93cc.chunk.js",
+    "main.js.map": "/back-home-safe/static/js/main.512c93cc.chunk.js.map",
+    "runtime-main.js": "/back-home-safe/static/js/runtime-main.d125a3b3.js",
+    "runtime-main.js.map": "/back-home-safe/static/js/runtime-main.d125a3b3.js.map",
+    "static/js/2.32b17add.chunk.js": "/back-home-safe/static/js/2.32b17add.chunk.js",
+    "static/js/2.32b17add.chunk.js.map": "/back-home-safe/static/js/2.32b17add.chunk.js.map",
+    "static/js/3.20cf0f9f.chunk.js": "/back-home-safe/static/js/3.20cf0f9f.chunk.js",
+    "static/js/3.20cf0f9f.chunk.js.map": "/back-home-safe/static/js/3.20cf0f9f.chunk.js.map",
+    "index.html": "/back-home-safe/index.html",
+    "qr-decoding.worker.js": "/back-home-safe/qr-decoding.worker.js",
+    "qr-decoding.worker.js.map": "/back-home-safe/qr-decoding.worker.js.map",
+    "service-worker.js": "/back-home-safe/service-worker.js",
+    "service-worker.js.map": "/back-home-safe/service-worker.js.map",
+    "static/js/2.32b17add.chunk.js.LICENSE.txt": "/back-home-safe/static/js/2.32b17add.chunk.js.LICENSE.txt",
+    "static/media/back.7bf7a56f.svg": "/back-home-safe/static/media/back.7bf7a56f.svg",
+    "static/media/checkbox.7f6c2da0.svg": "/back-home-safe/static/media/checkbox.7f6c2da0.svg",
+    "static/media/checkboxChecked.dad8859a.svg": "/back-home-safe/static/media/checkboxChecked.dad8859a.svg",
+    "static/media/cross.d2bbc7f7.svg": "/back-home-safe/static/media/cross.d2bbc7f7.svg",
+    "static/media/qrOverlay.185cc3ea.svg": "/back-home-safe/static/media/qrOverlay.185cc3ea.svg",
+    "static/media/tick.6d45b966.svg": "/back-home-safe/static/media/tick.6d45b966.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d125a3b3.js",
+    "static/js/2.32b17add.chunk.js",
+    "static/js/main.512c93cc.chunk.js"
+  ]
+}
